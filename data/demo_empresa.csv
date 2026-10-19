@@ -1,0 +1,130 @@
+data;descricao;categoria;tipo;valor;conta
+07/04/2026;Vendas à vista;Vendas;Receita;R$ 6.971,50;Conta PJ
+14/04/2026;Vendas à vista;Vendas;Receita;R$ 6.452,55;Conta PJ
+21/04/2026;Vendas à vista;Vendas;Receita;R$ 7.952,80;Conta PJ
+28/04/2026;Vendas à vista;Vendas;Receita;R$ 6.217,31;Conta PJ
+10/04/2026;Recebimento maquininha cartão;Vendas;Receita;R$ 5.071,76;Conta PJ
+25/04/2026;Recebimento maquininha cartão;Vendas;Receita;R$ 4.731,38;Conta PJ
+18/04/2026;Serviços prestados;Serviços;Receita;R$ 2.087,00;Conta PJ
+03/04/2026;Fornecedor mercadorias;Fornecedores;Despesa;R$ 4.768,59;Conta PJ
+12/04/2026;Fornecedor mercadorias;Fornecedores;Despesa;R$ 3.593,74;Conta PJ
+24/04/2026;Fornecedor mercadorias;Fornecedores;Despesa;R$ 4.584,11;Conta PJ
+15/04/2026;Embalagens;Insumos;Despesa;R$ 620,96;Conta PJ
+05/04/2026;Aluguel da loja;Aluguel;Despesa;R$ 4.500,00;Conta PJ
+05/04/2026;Folha de pagamento;Folha de pagamento;Despesa;R$ 9.800,00;Conta PJ
+20/04/2026;FGTS e INSS;Impostos e encargos;Despesa;R$ 2.400,00;Conta PJ
+20/04/2026;Simples Nacional;Impostos e encargos;Despesa;R$ 2.163,50;Conta PJ
+10/04/2026;Energia elétrica;Utilidades;Despesa;R$ 756,13;Conta PJ
+10/04/2026;Internet e telefone;Utilidades;Despesa;R$ 220,00;Conta PJ
+08/04/2026;Anúncios online;Marketing;Despesa;R$ 1.096,11;Conta PJ
+09/04/2026;Software contábil;Software;Despesa;R$ 189,00;Conta PJ
+26/04/2026;Taxas da maquininha;Taxas bancárias;Despesa;R$ 397,33;Conta PJ
+27/04/2026;Transferência entre contas (reserva);Transferência;Transferência;R$ 3.000,00;Conta PJ
+07/05/2026;Vendas à vista;Vendas;Receita;R$ 6.669,72;Conta PJ
+14/05/2026;Vendas à vista;Vendas;Receita;R$ 7.882,30;Conta PJ
+21/05/2026;Vendas à vista;Vendas;Receita;R$ 8.843,13;Conta PJ
+28/05/2026;Vendas à vista;Vendas;Receita;R$ 7.731,31;Conta PJ
+10/05/2026;Recebimento maquininha cartão;Vendas;Receita;R$ 4.793,36;Conta PJ
+25/05/2026;Recebimento maquininha cartão;Vendas;Receita;R$ 5.952,51;Conta PJ
+18/05/2026;Serviços prestados;Serviços;Receita;R$ 2.069,87;Conta PJ
+03/05/2026;Fornecedor mercadorias;Fornecedores;Despesa;R$ 5.646,17;Conta PJ
+12/05/2026;Fornecedor mercadorias;Fornecedores;Despesa;R$ 4.224,02;Conta PJ
+24/05/2026;Fornecedor mercadorias;Fornecedores;Despesa;R$ 3.860,64;Conta PJ
+15/05/2026;Embalagens;Insumos;Despesa;R$ 635,34;Conta PJ
+05/05/2026;Aluguel da loja;Aluguel;Despesa;R$ 4.500,00;Conta PJ
+05/05/2026;Folha de pagamento;Folha de pagamento;Despesa;R$ 9.800,00;Conta PJ
+20/05/2026;FGTS e INSS;Impostos e encargos;Despesa;R$ 2.400,00;Conta PJ
+20/05/2026;Simples Nacional;Impostos e encargos;Despesa;R$ 2.315,94;Conta PJ
+10/05/2026;Energia elétrica;Utilidades;Despesa;R$ 854,03;Conta PJ
+10/05/2026;Internet e telefone;Utilidades;Despesa;R$ 220,00;Conta PJ
+08/05/2026;Anúncios online;Marketing;Despesa;R$ 708,44;Conta PJ
+09/05/2026;Software contábil;Software;Despesa;R$ 189,00;Conta PJ
+26/05/2026;Taxas da maquininha;Taxas bancárias;Despesa;R$ 461,42;Conta PJ
+27/05/2026;Transferência entre contas (reserva);Transferência;Transferência;R$ 3.000,00;Conta PJ
+07/06/2026;Vendas à vista;Vendas;Receita;R$ 7.916,74;Conta PJ
+14/06/2026;Vendas à vista;Vendas;Receita;R$ 7.117,19;Conta PJ
+21/06/2026;Vendas à vista;Vendas;Receita;R$ 7.643,23;Conta PJ
+28/06/2026;Vendas à vista;Vendas;Receita;R$ 6.188,37;Conta PJ
+10/06/2026;Recebimento maquininha cartão;Vendas;Receita;R$ 4.119,20;Conta PJ
+25/06/2026;Recebimento maquininha cartão;Vendas;Receita;R$ 4.411,92;Conta PJ
+18/06/2026;Serviços prestados;Serviços;Receita;R$ 3.020,60;Conta PJ
+03/06/2026;Fornecedor mercadorias;Fornecedores;Despesa;R$ 4.568,98;Conta PJ
+12/06/2026;Fornecedor mercadorias;Fornecedores;Despesa;R$ 4.285,37;Conta PJ
+24/06/2026;Fornecedor mercadorias;Fornecedores;Despesa;R$ 4.963,90;Conta PJ
+15/06/2026;Embalagens;Insumos;Despesa;R$ 735,96;Conta PJ
+05/06/2026;Aluguel da loja;Aluguel;Despesa;R$ 4.500,00;Conta PJ
+05/06/2026;Folha de pagamento;Folha de pagamento;Despesa;R$ 9.800,00;Conta PJ
+20/06/2026;FGTS e INSS;Impostos e encargos;Despesa;R$ 2.400,00;Conta PJ
+20/06/2026;Simples Nacional;Impostos e encargos;Despesa;R$ 2.309,84;Conta PJ
+10/06/2026;Energia elétrica;Utilidades;Despesa;R$ 848,59;Conta PJ
+10/06/2026;Internet e telefone;Utilidades;Despesa;R$ 220,00;Conta PJ
+08/06/2026;Anúncios online;Marketing;Despesa;R$ 1.019,40;Conta PJ
+09/06/2026;Software contábil;Software;Despesa;R$ 189,00;Conta PJ
+26/06/2026;Taxas da maquininha;Taxas bancárias;Despesa;R$ 414,17;Conta PJ
+27/06/2026;Transferência entre contas (reserva);Transferência;Transferência;R$ 3.000,00;Conta PJ
+07/07/2026;Vendas à vista;Vendas;Receita;R$ 7.723,27;Conta PJ
+14/07/2026;Vendas à vista;Vendas;Receita;R$ 7.575,59;Conta PJ
+21/07/2026;Vendas à vista;Vendas;Receita;R$ 8.625,41;Conta PJ
+28/07/2026;Vendas à vista;Vendas;Receita;R$ 8.188,34;Conta PJ
+10/07/2026;Recebimento maquininha cartão;Vendas;Receita;R$ 4.575,88;Conta PJ
+25/07/2026;Recebimento maquininha cartão;Vendas;Receita;R$ 5.960,35;Conta PJ
+18/07/2026;Serviços prestados;Serviços;Receita;R$ 2.177,10;Conta PJ
+03/07/2026;Fornecedor mercadorias;Fornecedores;Despesa;R$ 4.545,31;Conta PJ
+12/07/2026;Fornecedor mercadorias;Fornecedores;Despesa;R$ 5.392,85;Conta PJ
+24/07/2026;Fornecedor mercadorias;Fornecedores;Despesa;R$ 3.879,96;Conta PJ
+15/07/2026;Embalagens;Insumos;Despesa;R$ 746,69;Conta PJ
+05/07/2026;Aluguel da loja;Aluguel;Despesa;R$ 4.500,00;Conta PJ
+05/07/2026;Folha de pagamento;Folha de pagamento;Despesa;R$ 9.800,00;Conta PJ
+20/07/2026;FGTS e INSS;Impostos e encargos;Despesa;R$ 2.400,00;Conta PJ
+20/07/2026;Simples Nacional;Impostos e encargos;Despesa;R$ 2.127,45;Conta PJ
+10/07/2026;Energia elétrica;Utilidades;Despesa;R$ 817,05;Conta PJ
+10/07/2026;Internet e telefone;Utilidades;Despesa;R$ 220,00;Conta PJ
+08/07/2026;Anúncios online;Marketing;Despesa;R$ 1.058,74;Conta PJ
+09/07/2026;Software contábil;Software;Despesa;R$ 189,00;Conta PJ
+26/07/2026;Taxas da maquininha;Taxas bancárias;Despesa;R$ 460,22;Conta PJ
+27/07/2026;Transferência entre contas (reserva);Transferência;Transferência;R$ 3.000,00;Conta PJ
+07/08/2026;Vendas à vista;Vendas;Receita;R$ 8.626,43;Conta PJ
+14/08/2026;Vendas à vista;Vendas;Receita;R$ 6.941,24;Conta PJ
+21/08/2026;Vendas à vista;Vendas;Receita;R$ 8.085,89;Conta PJ
+28/08/2026;Vendas à vista;Vendas;Receita;R$ 7.783,11;Conta PJ
+10/08/2026;Recebimento maquininha cartão;Vendas;Receita;R$ 5.159,79;Conta PJ
+25/08/2026;Recebimento maquininha cartão;Vendas;Receita;R$ 4.912,41;Conta PJ
+18/08/2026;Serviços prestados;Serviços;Receita;R$ 3.259,95;Conta PJ
+03/08/2026;Fornecedor mercadorias;Fornecedores;Despesa;R$ 5.861,70;Conta PJ
+12/08/2026;Fornecedor mercadorias;Fornecedores;Despesa;R$ 4.685,25;Conta PJ
+24/08/2026;Fornecedor mercadorias;Fornecedores;Despesa;R$ 5.160,38;Conta PJ
+15/08/2026;Embalagens;Insumos;Despesa;R$ 618,20;Conta PJ
+05/08/2026;Aluguel da loja;Aluguel;Despesa;R$ 4.500,00;Conta PJ
+05/08/2026;Folha de pagamento;Folha de pagamento;Despesa;R$ 9.800,00;Conta PJ
+20/08/2026;FGTS e INSS;Impostos e encargos;Despesa;R$ 2.400,00;Conta PJ
+20/08/2026;Simples Nacional;Impostos e encargos;Despesa;R$ 2.591,04;Conta PJ
+10/08/2026;Energia elétrica;Utilidades;Despesa;R$ 811,78;Conta PJ
+10/08/2026;Internet e telefone;Utilidades;Despesa;R$ 220,00;Conta PJ
+08/08/2026;Anúncios online;Marketing;Despesa;R$ 1.195,86;Conta PJ
+09/08/2026;Software contábil;Software;Despesa;R$ 189,00;Conta PJ
+26/08/2026;Taxas da maquininha;Taxas bancárias;Despesa;R$ 495,07;Conta PJ
+27/08/2026;Transferência entre contas (reserva);Transferência;Transferência;R$ 3.000,00;Conta PJ
+07/09/2026;Vendas à vista;Vendas;Receita;R$ 6.853,79;Conta PJ
+14/09/2026;Vendas à vista;Vendas;Receita;R$ 7.157,37;Conta PJ
+21/09/2026;Vendas à vista;Vendas;Receita;R$ 8.005,96;Conta PJ
+28/09/2026;Vendas à vista;Vendas;Receita;R$ 6.067,69;Conta PJ
+10/09/2026;Recebimento maquininha cartão;Vendas;Receita;R$ 4.923,39;Conta PJ
+25/09/2026;Recebimento maquininha cartão;Vendas;Receita;R$ 4.336,10;Conta PJ
+18/09/2026;Serviços prestados;Serviços;Receita;R$ 2.175,64;Conta PJ
+03/09/2026;Fornecedor mercadorias;Fornecedores;Despesa;R$ 3.647,39;Conta PJ
+12/09/2026;Fornecedor mercadorias;Fornecedores;Despesa;R$ 5.420,58;Conta PJ
+24/09/2026;Fornecedor mercadorias;Fornecedores;Despesa;R$ 3.823,35;Conta PJ
+15/09/2026;Embalagens;Insumos;Despesa;R$ 674,28;Conta PJ
+05/09/2026;Aluguel da loja;Aluguel;Despesa;R$ 4.500,00;Conta PJ
+05/09/2026;Folha de pagamento;Folha de pagamento;Despesa;R$ 9.800,00;Conta PJ
+20/09/2026;FGTS e INSS;Impostos e encargos;Despesa;R$ 2.400,00;Conta PJ
+20/09/2026;Simples Nacional;Impostos e encargos;Despesa;R$ 2.373,66;Conta PJ
+10/09/2026;Energia elétrica;Utilidades;Despesa;R$ 867,86;Conta PJ
+10/09/2026;Internet e telefone;Utilidades;Despesa;R$ 220,00;Conta PJ
+08/09/2026;Anúncios online;Marketing;Despesa;R$ 648,35;Conta PJ
+09/09/2026;Software contábil;Software;Despesa;R$ 189,00;Conta PJ
+26/09/2026;Taxas da maquininha;Taxas bancárias;Despesa;R$ 442,89;Conta PJ
+27/09/2026;Transferência entre contas (reserva);Transferência;Transferência;R$ 3.000,00;Conta PJ
+15/04/2026;Embalagens;Insumos;Despesa;R$ 620,96;Conta PJ
+31/02/2026;Linha com data inválida;Outros;Despesa;R$ 50,00;Conta corrente
+15/09/2026;Linha com valor inválido;Outros;Despesa;abc;Conta corrente

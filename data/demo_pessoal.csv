@@ -1,0 +1,182 @@
+data;descricao;categoria;tipo;valor;conta
+05/04/2026;Salário Empresa Exemplo;Salário;Receita;R$ 4.800,00;Conta corrente
+18/04/2026;Freelance design;Renda extra;Receita;R$ 791,83;Conta corrente
+06/04/2026;Transferência entre contas próprias;Transferência;Transferência;R$ 500,00;Conta corrente
+07/04/2026;Aluguel;Moradia;Despesa;R$ 1.500,00;Conta corrente
+10/04/2026;Condomínio;Moradia;Despesa;R$ 420,00;Conta corrente
+12/04/2026;Conta de energia;Moradia;Despesa;R$ 141,25;Conta corrente
+15/04/2026;Internet;Moradia;Despesa;R$ 109,90;Conta corrente
+03/04/2026;Academia;Saúde;Despesa;R$ 119,90;Conta corrente
+08/04/2026;Netflix;Assinaturas;Despesa;R$ 55,90;Cartão de crédito
+11/04/2026;Spotify;Assinaturas;Despesa;R$ 21,90;Cartão de crédito
+04/04/2026;Supermercado;Alimentação;Despesa;R$ 253,00;Cartão de crédito
+05/04/2026;Delivery iFood;Alimentação;Despesa;R$ 48,49;Cartão de crédito
+11/04/2026;Supermercado;Alimentação;Despesa;R$ 308,38;Cartão de crédito
+12/04/2026;Delivery iFood;Alimentação;Despesa;R$ 69,80;Cartão de crédito
+18/04/2026;Supermercado;Alimentação;Despesa;R$ 327,06;Cartão de crédito
+19/04/2026;Delivery iFood;Alimentação;Despesa;R$ 42,09;Cartão de crédito
+25/04/2026;Supermercado;Alimentação;Despesa;R$ 270,63;Cartão de crédito
+26/04/2026;Delivery iFood;Alimentação;Despesa;R$ 39,40;Cartão de crédito
+09/04/2026;Combustível;Transporte;Despesa;R$ 190,93;Conta corrente
+23/04/2026;Combustível;Transporte;Despesa;R$ 205,27;Conta corrente
+02/04/2026;Uber;Transporte;Despesa;R$ 14,56;Cartão de crédito
+08/04/2026;Uber;Transporte;Despesa;R$ 18,18;Cartão de crédito
+14/04/2026;Uber;Transporte;Despesa;R$ 27,65;Cartão de crédito
+20/04/2026;Uber;Transporte;Despesa;R$ 25,44;Cartão de crédito
+27/04/2026;Uber;Transporte;Despesa;R$ 18,63;Cartão de crédito
+16/04/2026;Farmácia;Saúde;Despesa;R$ 107,14;Conta corrente
+13/04/2026;Restaurante / cinema;Lazer;Despesa;R$ 193,32;Cartão de crédito
+28/04/2026;Restaurante / cinema;Lazer;Despesa;R$ 80,91;Cartão de crédito
+21/04/2026;Compra online;Compras;Despesa;R$ 341,75;Cartão de crédito
+20/04/2026;Pagamento fatura cartão;Cartão;Despesa;R$ 2.157,08;Conta corrente
+05/05/2026;Salário Empresa Exemplo;Salário;Receita;R$ 4.800,00;Conta corrente
+18/05/2026;Freelance design;Renda extra;Receita;R$ 809,44;Conta corrente
+06/05/2026;Transferência entre contas próprias;Transferência;Transferência;R$ 500,00;Conta corrente
+07/05/2026;Aluguel;Moradia;Despesa;R$ 1.500,00;Conta corrente
+10/05/2026;Condomínio;Moradia;Despesa;R$ 420,00;Conta corrente
+12/05/2026;Conta de energia;Moradia;Despesa;R$ 157,01;Conta corrente
+15/05/2026;Internet;Moradia;Despesa;R$ 109,90;Conta corrente
+03/05/2026;Academia;Saúde;Despesa;R$ 119,90;Conta corrente
+08/05/2026;Netflix;Assinaturas;Despesa;R$ 55,90;Cartão de crédito
+11/05/2026;Spotify;Assinaturas;Despesa;R$ 21,90;Cartão de crédito
+04/05/2026;Supermercado;Alimentação;Despesa;R$ 238,66;Cartão de crédito
+05/05/2026;Delivery iFood;Alimentação;Despesa;R$ 82,99;Cartão de crédito
+11/05/2026;Supermercado;Alimentação;Despesa;R$ 260,39;Cartão de crédito
+12/05/2026;Delivery iFood;Alimentação;Despesa;R$ 42,36;Cartão de crédito
+18/05/2026;Supermercado;Alimentação;Despesa;R$ 231,61;Cartão de crédito
+19/05/2026;Delivery iFood;Alimentação;Despesa;R$ 77,83;Cartão de crédito
+25/05/2026;Supermercado;Alimentação;Despesa;R$ 292,45;Cartão de crédito
+26/05/2026;Delivery iFood;Alimentação;Despesa;R$ 75,94;Cartão de crédito
+09/05/2026;Combustível;Transporte;Despesa;R$ 216,49;Conta corrente
+23/05/2026;Combustível;Transporte;Despesa;R$ 206,81;Conta corrente
+02/05/2026;Uber;Transporte;Despesa;R$ 34,44;Cartão de crédito
+08/05/2026;Uber;Transporte;Despesa;R$ 21,95;Cartão de crédito
+14/05/2026;Uber;Transporte;Despesa;R$ 25,59;Cartão de crédito
+20/05/2026;Uber;Transporte;Despesa;R$ 31,42;Cartão de crédito
+27/05/2026;Uber;Transporte;Despesa;R$ 26,99;Cartão de crédito
+16/05/2026;Farmácia;Saúde;Despesa;R$ 128,94;Conta corrente
+13/05/2026;Restaurante / cinema;Lazer;Despesa;R$ 160,83;Cartão de crédito
+28/05/2026;Restaurante / cinema;Lazer;Despesa;R$ 178,64;Cartão de crédito
+21/05/2026;Compra online;Compras;Despesa;R$ 113,75;Cartão de crédito
+20/05/2026;Pagamento fatura cartão;Cartão;Despesa;R$ 1.973,62;Conta corrente
+05/06/2026;Salário Empresa Exemplo;Salário;Receita;R$ 4.800,00;Conta corrente
+06/06/2026;Transferência entre contas próprias;Transferência;Transferência;R$ 500,00;Conta corrente
+07/06/2026;Aluguel;Moradia;Despesa;R$ 1.500,00;Conta corrente
+10/06/2026;Condomínio;Moradia;Despesa;R$ 420,00;Conta corrente
+12/06/2026;Conta de energia;Moradia;Despesa;R$ 151,39;Conta corrente
+15/06/2026;Internet;Moradia;Despesa;R$ 109,90;Conta corrente
+03/06/2026;Academia;Saúde;Despesa;R$ 119,90;Conta corrente
+08/06/2026;Netflix;Assinaturas;Despesa;R$ 55,90;Cartão de crédito
+11/06/2026;Spotify;Assinaturas;Despesa;R$ 21,90;Cartão de crédito
+04/06/2026;Supermercado;Alimentação;Despesa;R$ 254,73;Cartão de crédito
+05/06/2026;Delivery iFood;Alimentação;Despesa;R$ 41,75;Cartão de crédito
+11/06/2026;Supermercado;Alimentação;Despesa;R$ 247,93;Cartão de crédito
+12/06/2026;Delivery iFood;Alimentação;Despesa;R$ 42,75;Cartão de crédito
+18/06/2026;Supermercado;Alimentação;Despesa;R$ 253,36;Cartão de crédito
+19/06/2026;Delivery iFood;Alimentação;Despesa;R$ 67,88;Cartão de crédito
+25/06/2026;Supermercado;Alimentação;Despesa;R$ 263,78;Cartão de crédito
+26/06/2026;Delivery iFood;Alimentação;Despesa;R$ 55,40;Cartão de crédito
+09/06/2026;Combustível;Transporte;Despesa;R$ 190,48;Conta corrente
+23/06/2026;Combustível;Transporte;Despesa;R$ 193,35;Conta corrente
+02/06/2026;Uber;Transporte;Despesa;R$ 33,67;Cartão de crédito
+08/06/2026;Uber;Transporte;Despesa;R$ 27,61;Cartão de crédito
+14/06/2026;Uber;Transporte;Despesa;R$ 26,79;Cartão de crédito
+20/06/2026;Uber;Transporte;Despesa;R$ 17,59;Cartão de crédito
+27/06/2026;Uber;Transporte;Despesa;R$ 29,31;Cartão de crédito
+16/06/2026;Farmácia;Saúde;Despesa;R$ 73,07;Conta corrente
+13/06/2026;Restaurante / cinema;Lazer;Despesa;R$ 133,12;Cartão de crédito
+28/06/2026;Restaurante / cinema;Lazer;Despesa;R$ 218,53;Cartão de crédito
+21/06/2026;Compra online;Compras;Despesa;R$ 292,00;Cartão de crédito
+20/06/2026;Pagamento fatura cartão;Cartão;Despesa;R$ 2.084,00;Conta corrente
+05/07/2026;Salário Empresa Exemplo;Salário;Receita;R$ 4.800,00;Conta corrente
+18/07/2026;Freelance design;Renda extra;Receita;R$ 767,08;Conta corrente
+06/07/2026;Transferência entre contas próprias;Transferência;Transferência;R$ 500,00;Conta corrente
+07/07/2026;Aluguel;Moradia;Despesa;R$ 1.500,00;Conta corrente
+10/07/2026;Condomínio;Moradia;Despesa;R$ 420,00;Conta corrente
+12/07/2026;Conta de energia;Moradia;Despesa;R$ 174,23;Conta corrente
+15/07/2026;Internet;Moradia;Despesa;R$ 109,90;Conta corrente
+03/07/2026;Academia;Saúde;Despesa;R$ 119,90;Conta corrente
+08/07/2026;Netflix;Assinaturas;Despesa;R$ 55,90;Cartão de crédito
+11/07/2026;Spotify;Assinaturas;Despesa;R$ 21,90;Cartão de crédito
+04/07/2026;Supermercado;Alimentação;Despesa;R$ 321,14;Cartão de crédito
+05/07/2026;Delivery iFood;Alimentação;Despesa;R$ 74,47;Cartão de crédito
+11/07/2026;Supermercado;Alimentação;Despesa;R$ 247,49;Cartão de crédito
+12/07/2026;Delivery iFood;Alimentação;Despesa;R$ 39,51;Cartão de crédito
+18/07/2026;Supermercado;Alimentação;Despesa;R$ 257,85;Cartão de crédito
+19/07/2026;Delivery iFood;Alimentação;Despesa;R$ 50,58;Cartão de crédito
+25/07/2026;Supermercado;Alimentação;Despesa;R$ 245,32;Cartão de crédito
+26/07/2026;Delivery iFood;Alimentação;Despesa;R$ 82,32;Cartão de crédito
+09/07/2026;Combustível;Transporte;Despesa;R$ 223,82;Conta corrente
+23/07/2026;Combustível;Transporte;Despesa;R$ 195,73;Conta corrente
+02/07/2026;Uber;Transporte;Despesa;R$ 27,76;Cartão de crédito
+08/07/2026;Uber;Transporte;Despesa;R$ 22,31;Cartão de crédito
+14/07/2026;Uber;Transporte;Despesa;R$ 33,21;Cartão de crédito
+20/07/2026;Uber;Transporte;Despesa;R$ 23,64;Cartão de crédito
+27/07/2026;Uber;Transporte;Despesa;R$ 19,56;Cartão de crédito
+16/07/2026;Farmácia;Saúde;Despesa;R$ 79,73;Conta corrente
+13/07/2026;Restaurante / cinema;Lazer;Despesa;R$ 158,59;Cartão de crédito
+28/07/2026;Restaurante / cinema;Lazer;Despesa;R$ 116,78;Cartão de crédito
+21/07/2026;Compra online;Compras;Despesa;R$ 275,38;Cartão de crédito
+20/07/2026;Pagamento fatura cartão;Cartão;Despesa;R$ 2.073,71;Conta corrente
+05/08/2026;Salário Empresa Exemplo;Salário;Receita;R$ 4.800,00;Conta corrente
+18/08/2026;Freelance design;Renda extra;Receita;R$ 869,35;Conta corrente
+06/08/2026;Transferência entre contas próprias;Transferência;Transferência;R$ 500,00;Conta corrente
+07/08/2026;Aluguel;Moradia;Despesa;R$ 1.500,00;Conta corrente
+10/08/2026;Condomínio;Moradia;Despesa;R$ 420,00;Conta corrente
+12/08/2026;Conta de energia;Moradia;Despesa;R$ 159,97;Conta corrente
+15/08/2026;Internet;Moradia;Despesa;R$ 109,90;Conta corrente
+03/08/2026;Academia;Saúde;Despesa;R$ 119,90;Conta corrente
+08/08/2026;Netflix;Assinaturas;Despesa;R$ 55,90;Cartão de crédito
+11/08/2026;Spotify;Assinaturas;Despesa;R$ 21,90;Cartão de crédito
+04/08/2026;Supermercado;Alimentação;Despesa;R$ 246,32;Cartão de crédito
+05/08/2026;Delivery iFood;Alimentação;Despesa;R$ 84,88;Cartão de crédito
+11/08/2026;Supermercado;Alimentação;Despesa;R$ 281,14;Cartão de crédito
+12/08/2026;Delivery iFood;Alimentação;Despesa;R$ 42,27;Cartão de crédito
+18/08/2026;Supermercado;Alimentação;Despesa;R$ 225,65;Cartão de crédito
+19/08/2026;Delivery iFood;Alimentação;Despesa;R$ 43,15;Cartão de crédito
+25/08/2026;Supermercado;Alimentação;Despesa;R$ 295,29;Cartão de crédito
+26/08/2026;Delivery iFood;Alimentação;Despesa;R$ 75,23;Cartão de crédito
+09/08/2026;Combustível;Transporte;Despesa;R$ 201,11;Conta corrente
+23/08/2026;Combustível;Transporte;Despesa;R$ 183,18;Conta corrente
+02/08/2026;Uber;Transporte;Despesa;R$ 22,01;Cartão de crédito
+08/08/2026;Uber;Transporte;Despesa;R$ 34,92;Cartão de crédito
+14/08/2026;Uber;Transporte;Despesa;R$ 25,11;Cartão de crédito
+20/08/2026;Uber;Transporte;Despesa;R$ 34,39;Cartão de crédito
+27/08/2026;Uber;Transporte;Despesa;R$ 32,08;Cartão de crédito
+16/08/2026;Farmácia;Saúde;Despesa;R$ 60,92;Conta corrente
+13/08/2026;Restaurante / cinema;Lazer;Despesa;R$ 180,90;Cartão de crédito
+28/08/2026;Restaurante / cinema;Lazer;Despesa;R$ 175,44;Cartão de crédito
+21/08/2026;Compra online;Compras;Despesa;R$ 261,09;Cartão de crédito
+20/08/2026;Pagamento fatura cartão;Cartão;Despesa;R$ 2.137,69;Conta corrente
+05/09/2026;Salário Empresa Exemplo;Salário;Receita;R$ 4.800,00;Conta corrente
+06/09/2026;Transferência entre contas próprias;Transferência;Transferência;R$ 500,00;Conta corrente
+07/09/2026;Aluguel;Moradia;Despesa;R$ 1.500,00;Conta corrente
+10/09/2026;Condomínio;Moradia;Despesa;R$ 420,00;Conta corrente
+12/09/2026;Conta de energia;Moradia;Despesa;R$ 153,34;Conta corrente
+15/09/2026;Internet;Moradia;Despesa;R$ 109,90;Conta corrente
+03/09/2026;Academia;Saúde;Despesa;R$ 119,90;Conta corrente
+08/09/2026;Netflix;Assinaturas;Despesa;R$ 55,90;Cartão de crédito
+11/09/2026;Spotify;Assinaturas;Despesa;R$ 21,90;Cartão de crédito
+04/09/2026;Supermercado;Alimentação;Despesa;R$ 296,92;Cartão de crédito
+05/09/2026;Delivery iFood;Alimentação;Despesa;R$ 43,24;Cartão de crédito
+11/09/2026;Supermercado;Alimentação;Despesa;R$ 272,17;Cartão de crédito
+12/09/2026;Delivery iFood;Alimentação;Despesa;R$ 59,33;Cartão de crédito
+18/09/2026;Supermercado;Alimentação;Despesa;R$ 334,46;Cartão de crédito
+19/09/2026;Delivery iFood;Alimentação;Despesa;R$ 79,17;Cartão de crédito
+25/09/2026;Supermercado;Alimentação;Despesa;R$ 251,61;Cartão de crédito
+26/09/2026;Delivery iFood;Alimentação;Despesa;R$ 61,53;Cartão de crédito
+09/09/2026;Combustível;Transporte;Despesa;R$ 188,93;Conta corrente
+23/09/2026;Combustível;Transporte;Despesa;R$ 225,63;Conta corrente
+02/09/2026;Uber;Transporte;Despesa;R$ 32,28;Cartão de crédito
+08/09/2026;Uber;Transporte;Despesa;R$ 20,27;Cartão de crédito
+14/09/2026;Uber;Transporte;Despesa;R$ 27,42;Cartão de crédito
+20/09/2026;Uber;Transporte;Despesa;R$ 26,79;Cartão de crédito
+27/09/2026;Uber;Transporte;Despesa;R$ 17,21;Cartão de crédito
+16/09/2026;Farmácia;Saúde;Despesa;R$ 121,00;Conta corrente
+13/09/2026;Restaurante / cinema;Lazer;Despesa;R$ 155,51;Cartão de crédito
+28/09/2026;Restaurante / cinema;Lazer;Despesa;R$ 189,01;Cartão de crédito
+21/09/2026;Compra online;Compras;Despesa;R$ 259,11;Cartão de crédito
+20/09/2026;Pagamento fatura cartão;Cartão;Despesa;R$ 2.203,80;Conta corrente
+12/04/2026;Conta de energia;Moradia;Despesa;R$ 141,25;Conta corrente
+31/02/2026;Linha com data inválida;Outros;Despesa;R$ 50,00;Conta corrente
+15/09/2026;Linha com valor inválido;Outros;Despesa;abc;Conta corrente
