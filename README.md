@@ -45,7 +45,7 @@ python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 cp ../.env.example .env            # Windows: copy ..\.env.example .env  -> edite e coloque sua chave
-uvicorn app.main:app --reload --port 8000
+uvicorn apps.main:app --reload --port 8000
 
 # 2) Frontend (outro terminal)
 cd frontend
@@ -67,7 +67,7 @@ Sem chave, aparece um aviso e o chat usa o modo offline.
 cd backend && pip install -r requirements.txt && python -m pytest -q tests
 ```
 
-Gere os CSVs fictícios de exemplo (já incluídos em `data/`) com `python -m app.demo_data`.
+Gere os CSVs fictícios de exemplo (já incluídos em `data/`) com `python -m apps.demo_data`.
 
 ## Formato do CSV
 
@@ -96,7 +96,7 @@ Confirme antes que `.env` **não** aparece em `git status` (o `.gitignore` já o
 O backend serve o frontend compilado quando existe `frontend/dist`. Exemplo (Render/Railway/Fly):
 
 - Build: `pip install -r backend/requirements.txt && cd frontend && npm install && npm run build`
-- Start: `cd backend && uvicorn app.main:app --host 0.0.0.0 --port $PORT`
+- Start: `cd backend && uvicorn apps.main:app --host 0.0.0.0 --port $PORT`
 - Variáveis: `ANTHROPIC_API_KEY`, `CORS_ORIGINS` (a URL pública).
 
 Em evento com muitos participantes na mesma chave, mantenha o limite `AI_RATE_LIMIT_PER_MIN` e acompanhe o consumo.
